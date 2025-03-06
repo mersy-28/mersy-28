@@ -6,4 +6,4 @@
 - 💬 Ask me about my two betta fish
 - 📫 How to reach me: e.hookey@dal.ca
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I just started coding/programming in Feb. 2025
+- ⚡ Fun fact: I started coding/programming in 2025
