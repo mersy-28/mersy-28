@@ -12,8 +12,7 @@ I'm a front-end development student at Nucamp currently diving into the world of
 
 ---
 
-### ✨ Let's connect and build something awesome together!
-- [GitHub](https://github.com/mersy-28) 
+### ✨ Let's connect and build something awesome together! 
 - [LinkedIn](https://www.linkedin.com/in/emaan-hookey/)
 - em.grey28@gmail.com
 
