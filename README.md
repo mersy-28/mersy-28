@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a front-end development student at Nucamp currently expanding my skills in React. By day, I write **HTML, CSS, and JavaScript**. By night, I *still* write **HTML, CSS, and JavaScript**... but with more snacks. I'm passionate about making cool things on the web, even if it means breaking stuff along the way (and fixing it later... maybe)
+I'm a front-end development student at Nucamp currently diving into the world of React. By day, I write **HTML, CSS, and JavaScript**. By night, I *still* write **HTML, CSS, and JavaScript**... but with more snacks. I'm passionate about making cool things on the web, even if it means breaking stuff along the way (and fixing it later... maybe)
 
 ## 🚀 About me
 - Lifelong learner and proud betta fish mom 🐟
