@@ -18,4 +18,4 @@ I'm a front-end development student at Nucamp currently diving into the world of
 
 ---
 
-[[![Emaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mersy-28&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Emaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mersy-28&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
