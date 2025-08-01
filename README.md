@@ -23,16 +23,16 @@
   </a>
 </p>
 
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mersy-28&color=blue&style=flat-square" alt="Profile views" />
-</p>
-
 <!-- Sponsor Button -->
 <p align="center">
   <a href="https://github.com/sponsors/mersy-28">
     <img src="https://img.shields.io/badge/Sponsor%20me-%E2%9D%A4-pink?style=for-the-badge" alt="Sponsor me"/>
   </a>
+</p>
+
+<!-- Visitor Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mersy-28&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
 ---
