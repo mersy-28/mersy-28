@@ -14,6 +14,10 @@
   <a href="https://www.linkedin.com/in/emaan-hookey/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
+</p>
+
+<!-- email -->
+<p align="center">
   <a href="mailto:contact@emaan.dev">
     <img src="https://img.shields.io/badge/contact@emaan.dev-pink?style=flat-square">
   </a>
