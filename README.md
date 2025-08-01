@@ -16,6 +16,7 @@
   </a>
   
   [![Email](https://img.shields.io/badge/Email-contact@emaan.dev-pink?style=flat-square&logo=gmail)](mailto:contact@emaan.dev)
+  
 </p>
 
 <!-- Visitor Badge -->
