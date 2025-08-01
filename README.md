@@ -21,7 +21,7 @@
 
 <!-- Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mersy-28&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mersy-28&color=pink&style=flat-square" alt="Profile views" />
 </p>
 
 <!-- Sponsor Button -->
