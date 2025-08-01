@@ -14,8 +14,8 @@
   <a href="https://www.linkedin.com/in/emaan-hookey/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
-  <a href="mailto:em.grey28@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40"/>
+  <a href="mailto:contact@emaan.dev">
+    <img src="https://skillicons.dev/icons?i=email" alt="Email" width="40"/>
   </a>
 </p>
 
