@@ -14,9 +14,7 @@
   <a href="https://www.linkedin.com/in/emaan-hookey/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" width="32" height="32"/>
-  </a>
+  [![Email](https://img.shields.io/badge/Email-YourEmailHere-blue?style=flat-square&logo=gmail)](mailto:contact@emaan.dev)
 </p>
 
 <!-- Visitor Badge -->
