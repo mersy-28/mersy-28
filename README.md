@@ -15,13 +15,13 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
   <a href="mailto:contact@emaan.dev">
-    <img src="https://img.shields.io/badge/Email-contact@emaan.dev-pink?style=flat-square">
+    <img src="https://img.shields.io/badge/contact@emaan.dev-pink?style=flat-square">
   </a>
 </p>
 
 <!-- Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mersy-28&color=pink&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mersy-28&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
 <!-- Sponsor Button -->
