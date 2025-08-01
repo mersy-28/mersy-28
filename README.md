@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
   <a href="mailto:contact@emaan.dev">
-    <img src="https://skillicons.dev/icons?i=email" alt="Email" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="Email" width="40"/>
   </a>
 </p>
 
