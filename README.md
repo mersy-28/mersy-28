@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/contact@emaan.dev-pink?style=flat-square">
   </a>
   <a href="https://emaan.dev">
-    <img src="https://img.shields.io/badge/website-pink?style=flat-square">
+    <img src="https://img.shields.io/badge/my%20website-pink?style=flat-square">
   </a>
 </p>
 
