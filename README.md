@@ -24,10 +24,10 @@
 <!-- email -->
 <p align="center">
   <a href="mailto:contact@emaan.dev">
-    <img src="https://img.shields.io/badge/contact@emaan.dev-pink?style=flat-square">
+    <img src="https://img.shields.io/badge/contact@emaan.dev-FF69B4?style=flat-square">
   </a>
   <a href="https://emaan.dev">
-    <img src="https://img.shields.io/badge/my%20website-pink?style=flat-square">
+    <img src="https://img.shields.io/badge/my%20website-FF69B4?style=flat-square">
   </a>
 </p>
 
@@ -42,17 +42,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mersy-28&color=FF69B4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
-
----
-
-<h3 align="center">Featured Project</h3>
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/mersy-28/js-2048-game">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mersy-28&repo=js-2048-game&theme=radical" alt="Javascript 2048 game"/>
-    </a>
-  </p>
-</div>
 
 ---
 
