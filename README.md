@@ -34,7 +34,7 @@
 <!-- Sponsor Button -->
 <p align="center">
   <a href="https://github.com/sponsors/mersy-28">
-    <img src="https://img.shields.io/badge/Sponsor%20me-%E2%9D%A4-pink?style=for-the-badge" alt="Sponsor me"/>
+    <img src="https://img.shields.io/badge/Sponsor%20me-%E2%9D%A4-FF69B4?style=for-the-badge" alt="Sponsor me"/>
   </a>
 </p>
 
