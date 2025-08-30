@@ -40,7 +40,7 @@
 
 <!-- Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mersy-28&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mersy-28&color=FF69B4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
 
 ---
