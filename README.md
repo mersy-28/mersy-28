@@ -1,5 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Emaan</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Continuous+Learner" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <b>Front-end Development Student @ Nucamp</b> currently diving into the world of React.<br /><br /> 
   By day, I write HTML, CSS, and JavaScript. By night, I <i>still</i> write HTML, CSS, and JavaScript... but with more snacks.<br />
