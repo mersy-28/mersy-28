@@ -44,6 +44,7 @@
 </p>
 
 ---
+
 <h3 align="center">Featured Project</h3
 <div align="center">
   <a href="https://github.com/mersy-28/js-2048-game">
