@@ -49,7 +49,7 @@
 <div align="center">
   <p align="center">
     <a href="https://github.com/mersy-28/js-2048-game">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mersy-28&repo=js-204-game&theme=radical" alt="Javascript 2048 game"/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mersy-28&repo=js-2048-game&theme=radical" alt="Javascript 2048 game"/>
     </a>
   </p>
 </div>
