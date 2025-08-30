@@ -44,6 +44,14 @@
 </p>
 
 ---
+<h3 align="center">Featured Project</h3
+<div align="center">
+  <a href="https://github.com/mersy-28/js-2048-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mersy-28&repo=js-2048-game&theme=radical" alt="JS 2048 game"/>
+  </a>
+</div>
+
+---
 
 <!-- Tech Badges (Crisp, modern Shields.io SVGs) -->
 <h3 align="center">Tech Stack & Tools</h3>
