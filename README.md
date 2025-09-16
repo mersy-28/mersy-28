@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Emaan</h1>
+<h1 align="center">Hi there, I'm Faith</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Front-end+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
