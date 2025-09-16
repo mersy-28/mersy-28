@@ -16,17 +16,17 @@
   <a href="https://github.com/mersy-28">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/emaan-hookey/">
+  <a href="https://www.linkedin.com/in/faith-hookey/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40"/>
   </a>
 </p>
 
 <!-- email -->
 <p align="center">
-  <a href="mailto:contact@emaan.dev">
-    <img src="https://img.shields.io/badge/contact@emaan.dev-FF69B4?style=flat-square">
+  <a href="mailto:admin@hookey.ca">
+    <img src="https://img.shields.io/badge/admin@hookey.ca-FF69B4?style=flat-square">
   </a>
-  <a href="https://emaan.dev">
+  <a href="https://www.hookey.ca">
     <img src="https://img.shields.io/badge/my%20website-FF69B4?style=flat-square">
   </a>
 </p>
