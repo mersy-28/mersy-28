@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <b>Front-end Development Student @ Nucamp</b> currently diving into the world of React.<br /><br /> 
+  <b>Web Programming Student @ NSCC</b> currently diving into the world of TypeScript<br /><br /> 
   By day, I write HTML, CSS, and JavaScript. By night, I <i>still</i> write HTML, CSS, and JavaScript... but with more snacks.<br />
   I'm passionate about making cool things on the web, even if it means breaking stuff along the way (and fixing it later... maybe).
 </p>
